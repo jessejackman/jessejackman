@@ -4,7 +4,7 @@
 			
 			<div class="col-md-6 widget">
 				<div class="widget-body">
-					<p>2613 Prado Del Sol Ave, Las Cruces, NM 88011 </p>
+					<p>When this is complete put my address here...</p>
 				</div>
 			</div>
 
